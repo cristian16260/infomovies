@@ -1,0 +1,9 @@
+
+Usuario: movicristian
+Correo: sercardenas5021@gmail.com
+contraseña: vision100
+
+API-CLAVE: e5565cf6f1634866a52dd3080fb9152f
+
+TOKEN DE ACCESO A LA API: 
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlNTU2NWNmNmYxNjM0ODY2YTUyZGQzMDgwZmI5MTUyZiIsInN1YiI6IjY0NmZkMjg0YzVhZGE1MDEzNTgzN2I3ZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.18SU-ukSJAhlu8T0uvWVQN8DuIhEP168fuPzsEbcuoM 
